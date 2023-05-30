@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.collections.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox prefHeight="707.0" prefWidth="1225.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.diplomaaaaaaaaa.RouteWindowController">
+    <children>
+        <TableView fx:id="tableView" prefHeight="377.0" prefWidth="836.0">
+            <columns>
+                <TableColumn prefWidth="50.0" text="ID">
+                    <cellValueFactory><PropertyValueFactory property="id" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn prefWidth="94.0" text="Номер поїзда">
+                    <cellValueFactory><PropertyValueFactory property="trainID" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn prefWidth="113.0" text="Відправлення">
+                    <cellValueFactory><PropertyValueFactory property="departure" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn prefWidth="134.0" text="Прибуття">
+                    <cellValueFactory><PropertyValueFactory property="arrive" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn minWidth="0.0" prefWidth="198.0" text="Станції">
+                    <cellValueFactory><PropertyValueFactory property="stations" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn prefWidth="124.0" text="Вартість квитка">
+                    <cellValueFactory><PropertyValueFactory property="ticketCost" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn prefWidth="122.0" text="Статус">
+                    <cellValueFactory><PropertyValueFactory property="status" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn prefWidth="122.0" text="Причина">
+                    <cellValueFactory><PropertyValueFactory property="reason" />
+                    </cellValueFactory>
+                </TableColumn>
+<!--                <TableColumn prefWidth="122.0" text="Повернені квитки">-->
+<!--                    <cellValueFactory><PropertyValueFactory property="returnedTickets" />-->
+<!--                    </cellValueFactory>-->
+<!--                </TableColumn>-->
+                <TableColumn prefWidth="122.0" text="Категорія">
+                    <cellValueFactory><PropertyValueFactory property="category" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn prefWidth="122.0" text="Кількість місць">
+                    <cellValueFactory><PropertyValueFactory property="seatsNumber" />
+                    </cellValueFactory>
+                </TableColumn>
+            </columns>
+        </TableView>
+        <HBox prefHeight="288.0" prefWidth="1225.0">
+            <children>
+                <Button mnemonicParsing="false" onAction="#addToTable" text="Додати">
+                    <HBox.margin>
+                        <Insets bottom="10.0" left="10.0" right="5.0" top="10.0" />
+                    </HBox.margin></Button>
+                <Button mnemonicParsing="false" onAction="#editRoute" text="Редагувати">
+                    <HBox.margin>
+                        <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+                    </HBox.margin></Button>
+                <Button mnemonicParsing="false" onAction="#deleteRoute" text="Видалити">
+                    <HBox.margin>
+                        <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+                    </HBox.margin></Button>
+            <Button mnemonicParsing="false" onAction="#openTrainInfo" text="Інформація про поїзд">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+               </HBox.margin>
+            </Button>
+                <VBox alignment="CENTER" prefHeight="255.0" prefWidth="350.0">
+                    <children>
+                        <Label alignment="CENTER" prefHeight="20.0" prefWidth="332.0" text="Пошук">
+                            <font>
+                                <Font size="14.0" />
+                            </font></Label>
+                        <GridPane prefHeight="256.0" prefWidth="268.0">
+                            <columnConstraints>
+                                <ColumnConstraints hgrow="SOMETIMES" maxWidth="157.0" minWidth="10.0" prefWidth="124.0" />
+                                <ColumnConstraints hgrow="SOMETIMES" maxWidth="187.0" minWidth="10.0" prefWidth="159.0" />
+                            </columnConstraints>
+                            <rowConstraints>
+                                <RowConstraints maxHeight="42.0" minHeight="32.0" prefHeight="38.0" vgrow="SOMETIMES" />
+                                <RowConstraints maxHeight="47.0" minHeight="32.0" prefHeight="40.0" vgrow="SOMETIMES" />
+                                <RowConstraints maxHeight="47.0" minHeight="32.0" prefHeight="42.0" vgrow="SOMETIMES" />
+                                <RowConstraints maxHeight="47.0" minHeight="32.0" prefHeight="39.0" vgrow="SOMETIMES" />
+                                <RowConstraints maxHeight="47.0" minHeight="32.0" prefHeight="31.0" vgrow="SOMETIMES" />
+                                <RowConstraints maxHeight="47.0" minHeight="32.0" prefHeight="34.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="47.0" minHeight="32.0" prefHeight="34.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="47.0" minHeight="32.0" prefHeight="34.0" vgrow="SOMETIMES" />
+                            </rowConstraints>
+                            <children>
+                                <Label text="Номер поїзда:" />
+                                <Label text="Дата відправлення:" GridPane.rowIndex="1" />
+                                <Label text="Дата прибуття:" GridPane.rowIndex="2" />
+                                <Label text="Станції:" GridPane.rowIndex="3" />
+                                <Label text="Вартість квитка від:" GridPane.rowIndex="4" />
+                                <Label text="Статус:" GridPane.rowIndex="5" />
+                                <Label text="Категорія:" GridPane.rowIndex="6" />
+                                <Label text="Кількість місць від:" GridPane.rowIndex="7" />
+
+                                <ChoiceBox fx:id="trainIDChoiceB" onAction="#searchRoute" prefHeight="25.0" prefWidth="188.0" value="Оберіть номер" GridPane.columnIndex="1" />
+                                <DatePicker fx:id="departureDateDateP" onAction="#searchRoute" prefHeight="25.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                                <DatePicker fx:id="arriveDateDateP" onAction="#searchRoute" prefHeight="25.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                                <TextField fx:id="stationsTextF" onKeyTyped="#searchRoute" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                                <TextField fx:id="ticketCostTextF" onKeyTyped="#searchRoute" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                                <ChoiceBox fx:id="statusChoiceB" onAction="#searchRoute" prefHeight="25.0" prefWidth="188.0" value="Оберіть статус" GridPane.columnIndex="1" GridPane.rowIndex="5">
+                                    <items>
+                                        <FXCollections fx:factory="observableArrayList">
+                                            <String fx:value="Активний" />
+                                            <String fx:value="Скасований" />
+                                            <String fx:value="Затриманий" />
+                                        </FXCollections>
+                                    </items>
+                                </ChoiceBox>
+                                <ChoiceBox fx:id="categoryChoiceB" onAction="#searchRoute" prefHeight="25.0" prefWidth="188.0" value="Оберіть категорію" GridPane.columnIndex="1" GridPane.rowIndex="6">
+                                    <items>
+                                        <FXCollections fx:factory="observableArrayList">
+                                            <String fx:value="Туристичний" />
+                                            <String fx:value="Внутрішній" />
+                                            <String fx:value="Міжнародний" />
+                                            <String fx:value="Спеціальний" />
+                                        </FXCollections>
+                                    </items>
+                                </ChoiceBox>
+                                <TextField fx:id="seatsNumberTextF" onKeyTyped="#searchRoute" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+
+                            </children>
+                        </GridPane>
+                        <Button alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#clearFilters" text="Скинути фільтри" GridPane.columnIndex="1" GridPane.rowIndex="8">
+                            <VBox.margin>
+                                <Insets top="10.0" />
+                            </VBox.margin></Button>
+
+                    </children>
+                    <HBox.margin>
+                        <Insets left="80.0" />
+                    </HBox.margin>
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+
+                </VBox>
+            </children>
+        </HBox>
+    </children>
+
+</VBox>

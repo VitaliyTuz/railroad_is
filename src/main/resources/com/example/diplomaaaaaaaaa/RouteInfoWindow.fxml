@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox prefHeight="630.0" prefWidth="393.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.diplomaaaaaaaaa.RouteInfoWindowController">
+    <GridPane gridLinesVisible="true" prefHeight="537.0" prefWidth="393.0">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="184.0" minWidth="10.0" prefWidth="184.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="206.0" minWidth="10.0" prefWidth="179.0" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints maxHeight="91.0" minHeight="10.0" prefHeight="47.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="89.0" minHeight="10.0" prefHeight="47.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="118.0" minHeight="10.0" prefHeight="47.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="145.0" minHeight="10.0" prefHeight="47.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="152.0" minHeight="10.0" prefHeight="47.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="155.0" minHeight="10.0" prefHeight="47.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="162.0" minHeight="10.0" prefHeight="47.0" vgrow="SOMETIMES" />
+         <RowConstraints maxHeight="162.0" minHeight="10.0" prefHeight="47.0" vgrow="SOMETIMES" />
+         <RowConstraints maxHeight="162.0" minHeight="10.0" prefHeight="39.0" vgrow="SOMETIMES" />
+         <RowConstraints maxHeight="162.0" minHeight="10.0" prefHeight="47.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+        <children>
+            <Label alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="184.0" text="Номер">
+                <GridPane.margin>
+                    <Insets />
+                </GridPane.margin>
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding></Label>
+            <Label alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="183.0" text="Номер поїзда" GridPane.rowIndex="1">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding></Label>
+            <Label alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="182.0" text="Відправлення" GridPane.rowIndex="2">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding></Label>
+            <Label alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="183.0" text="Прибуття" GridPane.rowIndex="3">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding></Label>
+            <Label alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="184.0" text="Станції" GridPane.rowIndex="4">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding></Label>
+            <Label alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="183.0" text="Вартість квитка" GridPane.rowIndex="5">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding></Label>
+            <Label alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="182.0" text="Статус" textAlignment="RIGHT" GridPane.rowIndex="6">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding></Label>
+            <Label alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="182.0" text="Причина" textAlignment="RIGHT" GridPane.rowIndex="7">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding></Label>
+            <Label alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="182.0" text="Категорія" textAlignment="RIGHT" GridPane.rowIndex="8">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding></Label>
+            <Label alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="182.0" text="Кількість місць" textAlignment="RIGHT" GridPane.rowIndex="9">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding></Label>
+
+            <Label fx:id="idLabel" text="" GridPane.columnIndex="1">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding>
+            </Label>
+            <Label fx:id="trainIDLabel" text="" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding>
+            </Label>
+            <Label fx:id="departureLabel" text="" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding>
+            </Label>
+            <Label fx:id="arriveLabel" text="" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding>
+            </Label>
+            <Label fx:id="stationsLabel" text="" GridPane.columnIndex="1" GridPane.rowIndex="4">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding>
+            </Label>
+            <Label fx:id="ticketCostLabel" text="" GridPane.columnIndex="1" GridPane.rowIndex="5">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding>
+            </Label>
+            <Label fx:id="statusLabel" text="" GridPane.columnIndex="1" GridPane.rowIndex="6">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding>
+            </Label>
+            <Label fx:id="reasonLabel" text="" GridPane.columnIndex="1" GridPane.rowIndex="7">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding>
+            </Label>
+            <Label fx:id="categoryLabel" text="" GridPane.columnIndex="1" GridPane.rowIndex="8">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding>
+            </Label>
+            <Label fx:id="seatsNumberLabel" text="" GridPane.columnIndex="1" GridPane.rowIndex="9">
+                <padding>
+                    <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                </padding>
+            </Label>
+
+        </children>
+    </GridPane>
+    <AnchorPane prefHeight="83.0" prefWidth="393.0">
+        <children>
+            <Button fx:id="OKButton" layoutX="31.0" layoutY="22.0" mnemonicParsing="false" onAction="#onOKButtonClick" prefHeight="39.0" prefWidth="154.0" text="ОК" />
+            <Button fx:id="trainInfoButton" layoutX="197.0" layoutY="22.0" mnemonicParsing="false" onAction="#onTrainInfoButtonClick" prefHeight="39.0" prefWidth="154.0" text="Інформація про поїзд" />
+        </children>
+    </AnchorPane>
+</VBox>

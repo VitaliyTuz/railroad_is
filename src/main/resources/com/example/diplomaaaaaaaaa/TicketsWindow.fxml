@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.cell.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox prefHeight="624.0" prefWidth="710.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.diplomaaaaaaaaa.TicketsWindowController">
+    <children>
+        <TableView fx:id="tableView" prefHeight="377.0" prefWidth="836.0">
+            <columns>
+                <TableColumn prefWidth="50.0" text="ID">
+                    <cellValueFactory><PropertyValueFactory property="id" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn prefWidth="146.0" text="Номер маршрута">
+                    <cellValueFactory><PropertyValueFactory property="routeID" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn prefWidth="126.0" text="Ціна">
+                    <cellValueFactory><PropertyValueFactory property="price" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn prefWidth="113.0" text="Студент">
+                    <cellValueFactory><PropertyValueFactory property="isStudent" />
+                    </cellValueFactory>
+                </TableColumn>
+                <TableColumn minWidth="0.0" prefWidth="199.0" text="Речі в багажному відділенні">
+                    <cellValueFactory><PropertyValueFactory property="baggagePlaceUse" />
+                    </cellValueFactory>
+                </TableColumn>
+            </columns>
+        </TableView>
+        <HBox prefHeight="243.0" prefWidth="710.0">
+            <children>
+                <Button mnemonicParsing="false" onAction="#addToTable" text="Додати">
+                    <HBox.margin>
+                        <Insets bottom="10.0" left="10.0" right="5.0" top="10.0" />
+                    </HBox.margin></Button>
+                <Button mnemonicParsing="false" onAction="#deleteTicket" text="Видалити">
+                    <HBox.margin>
+                        <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+                    </HBox.margin></Button>
+                <Button mnemonicParsing="false" onAction="#openRouteInfo" prefHeight="25.0" prefWidth="169.0" text="Інформація про маршрут">
+                    <HBox.margin>
+                        <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" />
+                    </HBox.margin>
+                </Button>
+
+                <VBox alignment="CENTER" prefHeight="255.0" prefWidth="350.0">
+                    <children>
+                        <Label alignment="CENTER" prefHeight="20.0" prefWidth="332.0" text="Пошук">
+                            <font>
+                                <Font size="14.0" />
+                            </font></Label>
+                        <GridPane prefHeight="151.0" prefWidth="350.0">
+                            <columnConstraints>
+                                <ColumnConstraints hgrow="SOMETIMES" maxWidth="205.0" minWidth="10.0" prefWidth="137.0" />
+                                <ColumnConstraints hgrow="SOMETIMES" maxWidth="234.0" minWidth="10.0" prefWidth="213.0" />
+                            </columnConstraints>
+                            <rowConstraints>
+                                <RowConstraints maxHeight="54.0" minHeight="10.0" prefHeight="39.0" vgrow="SOMETIMES" />
+                                <RowConstraints maxHeight="89.0" minHeight="10.0" prefHeight="33.0" vgrow="SOMETIMES" />
+                                <RowConstraints maxHeight="117.0" minHeight="10.0" prefHeight="29.0" vgrow="SOMETIMES" />
+                                <RowConstraints maxHeight="138.0" minHeight="10.0" prefHeight="51.0" vgrow="SOMETIMES" />
+                            </rowConstraints>
+                            <children>
+                                <Label text="Номер маршрута" />
+                                <Label prefHeight="17.0" prefWidth="190.0" text="Ціна від:" GridPane.rowIndex="3">
+                                    <padding>
+                                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                                    </padding></Label>
+
+                                <ChoiceBox fx:id="routeIDChoiceB" onAction="#searchTicket" prefHeight="25.0" prefWidth="217.0" value="Оберіть маршрут" GridPane.columnIndex="1" />
+                                <CheckBox fx:id="isStudentCheckB" mnemonicParsing="false" onAction="#searchTicket" text="Студент" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                                <CheckBox fx:id="baggagePlaceUseCheckB" mnemonicParsing="false" onAction="#searchTicket" prefHeight="17.0" prefWidth="214.0" text="Речі здані в багажне відділення" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                                <TextField fx:id="priceTextF" onKeyTyped="#searchTicket" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+
+
+                            </children>
+                        </GridPane>
+                        <Button alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#clearFilters" text="Скинути фільтри" GridPane.columnIndex="1" GridPane.rowIndex="8">
+                            <VBox.margin>
+                                <Insets top="10.0" />
+                            </VBox.margin></Button>
+
+                    </children>
+                    <HBox.margin>
+                        <Insets left="10.0" />
+                    </HBox.margin>
+                    <VBox.margin>
+                        <Insets />
+                    </VBox.margin>
+
+                </VBox>
+            </children>
+        </HBox>
+    </children>
+</VBox>

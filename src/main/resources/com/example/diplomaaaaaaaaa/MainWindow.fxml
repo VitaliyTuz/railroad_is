@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity"
+      minHeight="-Infinity" minWidth="-Infinity" prefHeight="402.0" prefWidth="664.0"
+      xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.diplomaaaaaaaaa.MainWindowController">
+   <children>
+      <VBox prefHeight="442.0" prefWidth="258.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#onEmployeeButtonClick" prefHeight="50.0" prefWidth="174.0" text="Працівники">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="20.0" right="10.0" top="80.0" />
+               </VBox.margin>
+               <font>
+                  <Font size="18.0" />
+               </font></Button>
+            <Button mnemonicParsing="false" onAction="#onLocomotiveButtonClick" prefHeight="50.0" prefWidth="174.0" text="Локомотиви">
+                <VBox.margin>
+                    <Insets bottom="10.0" left="20.0" right="10.0" top="10.0" />
+                </VBox.margin>
+               <font>
+                  <Font size="18.0" />
+               </font></Button>
+            <Button mnemonicParsing="false" onAction="#onRouteButtonClick" prefHeight="50.0" prefWidth="174.0" text="Маршрути">
+                <VBox.margin>
+                    <Insets bottom="10.0" left="20.0" right="10.0" top="10.0" />
+                </VBox.margin>
+               <font>
+                  <Font size="18.0" />
+               </font></Button>
+             <Button mnemonicParsing="false" onAction="#onTicketButtonClick" prefHeight="50.0" prefWidth="174.0" text="Квитки">
+                 <VBox.margin>
+                     <Insets bottom="10.0" left="20.0" right="10.0" top="10.0" />
+                 </VBox.margin>
+                 <font>
+                     <Font size="18.0" />
+                 </font></Button>
+         </children></VBox>
+      <Pane prefHeight="492.0" prefWidth="477.0">
+         <children>
+            <ImageView fitHeight="250.0" fitWidth="394.0" layoutX="24.0" layoutY="78.0" pickOnBounds="true" preserveRatio="true">
+                <image>
+                    <Image url="@beautiful-train.png" />
+                </image>
+            </ImageView>
+         </children>
+      </Pane>
+   </children>
+</HBox>

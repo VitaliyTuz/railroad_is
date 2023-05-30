@@ -1,0 +1,1032 @@
+
+
+Version:	3.50
+CmdLine:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;C:\Program Files\Java\jdk-20\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Main class:	Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-classpath "D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe" Main
+Args length:	93/32768 chars
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, r
+
+Version:	3.50
+CmdLine:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;C:\Program Files\Java\jdk-20\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Main class:	Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-classpath "D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe" Main
+Args length:	93/32768 chars
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the applicatestarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, resion!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the applicatiotarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restan!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, restarting the application!
+Exit code:	1, resta
+
+Version:	3.50
+CmdLine:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Java\jre-1.8
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Main class:	Main
+Add classpath:	1
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-classpath "D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe;1" Main
+Args length:	95/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Java\jre-1.8
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Main class:	Main
+Add classpath:	1
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-classpath "D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe;1" Main
+Args length:	95/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Java\jre-1.8
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Main class:	Main
+Add classpath:	1
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-classpath "D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe;1" Main
+Args length:	95/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;;C:\Program Files\Java\jdk-20\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\WMC\AppData\Local\Programs\Python\Python311\;C:\Users\WMC\AppData\Local\Microsoft\WindowsApps;C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin;;C:\Users\WMC\.dotnet\tools;C:\Program Files\Java\jdk-20;;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Java\jre-1.8
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Python\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.2\bin\javaw.exe (not found)
+Check launcher:	C:\Users\WMC\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Main class:	Main
+Add classpath:	1
+Launcher:	C:\Program Files\Java\jdk-20\bin\javaw.exe
+Launcher args:	-classpath "D:\Programs\Java\DiplomaAAAAAAAA\out\artifacts\Main_jar\DiplomaAAAAAAAA.exe;1" Main
+Args length:	95/32768 chars
+Exit code:	0

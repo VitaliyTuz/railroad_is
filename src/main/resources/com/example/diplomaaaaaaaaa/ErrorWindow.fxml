@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="151.0" prefWidth="224.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.diplomaaaaaaaaa.ErrorWindowController">
+   <children>
+      <Label fx:id="label1" prefHeight="45.0" prefWidth="143.0" textAlignment="CENTER" wrapText="true">
+         <VBox.margin>
+            <Insets bottom="10.0" />
+         </VBox.margin>
+      </Label>
+      <Button fx:id="OKBtn" mnemonicParsing="false" onAction="#onOKButtonClick" prefHeight="25.0" prefWidth="43.0" text="OK" />
+   </children>
+</VBox>
